@@ -1,7 +1,7 @@
 # Auto_MySQL_Report_Gen
 A simple tool for generating a Excel spreadsheet(Dashboard) from MySql db
 
-#Requirment:
+#Requirement:
 •	Python3 –windows Installer
 •	Mysql Server, MySQL Windows Connector
 •	Python Packages – mysqlclient, xlsxwriter, xlwt
